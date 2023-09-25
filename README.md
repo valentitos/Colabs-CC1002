@@ -6,7 +6,7 @@ Clases
 
 | N° | Clase                            | Link Github | Link Colab |
 |----|----------------------------------|-------------|------------|
-| 01 | Expresiones y Variables          | [Clase 01](/blob/main/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb)             |            |
+| 01 | Expresiones y Variables          | [Clase 01](/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb)             |            |
 | 02 | Funciones y Receta de Diseño     | [Clase 02]()            |            |
 | 03 | Módulos y Programas Interactivos | [Clase 03]()           |            |
 | 04 | Condicionales                    | [Clase 04]()            |            |
