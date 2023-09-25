@@ -6,7 +6,7 @@ Clases
 
 | N° | Clase                            | Link Github | Link Colab |
 |----|----------------------------------|-------------|------------|
-| 01 | Expresiones y Variables          | [Clase 01](/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb)             |            |
+| 01 | Expresiones y Variables          | [Clase 01](/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb)             | <a href="https://colab.research.google.com/github/valentitos/Colabs-CC1002/blob/main/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>           |
 | 02 | Funciones y Receta de Diseño     | [Clase 02](/Clase_02_Funciones/Clase02_Diseño_de_funciones.ipynb)            |            |
 | 03 | Módulos y Programas Interactivos | [Clase 03](/Clase_03_Modulos/Clase03_Modulos_y_Programas_Interactivos.ipynb)           |            |
 | 04 | Condicionales                    | [Clase 04](/Clase_04_Condicionales/Clase04_Condicionales.ipynb)            |            |
