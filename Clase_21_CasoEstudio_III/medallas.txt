@@ -1,0 +1,6 @@
+atletismo,argentina,1,0,0
+atletismo,eeuu,0,1,1
+gimnasia ritmica,chile,0,1,0
+ciclismo,eeuu,1,0,0
+basketball,eeuu,1,0,0
+basketball,chile,0,0,1

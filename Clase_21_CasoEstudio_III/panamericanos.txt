@@ -1,0 +1,3 @@
+3,atletismo,chile,colombia,argentina,brasil,peru,eeuu
+10,tenis,argentina,brasil,eeuu,chile
+11,volleyball,argentina,brasil,peru,chile,eeuu,canada
